@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  background-color: beige;
+  padding: 0;
+}
+table {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  overflow: hidden;
+  background-color: turquoise;
+  padding: 20px 10px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.login-logo {
+  height: 50px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.GIS-logo {
+  height: 75px;
+  width: 100px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.tabs {
+  margin: 0;
+  padding: 1;
+  padding-left: 0;
+  overflow: hidden;
+}
+.tab {
+  float: left;
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.tab a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.right-down {
+  font-size: small;
+}
+
+.sign-box {
+  margin: auto;
+  width: 50%;
+  padding-left: auto;
+  padding-right: auto;
+  border: 3px;
+  background-color: blanchedalmond;
+}
+
+.sign-box img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.sign-box form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.mainP {
+  margin: auto;
+  width: 75%;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.mainP div {
+  margin: auto;
+  width: 75%;
+  padding-left: auto;
+  padding-right: auto;
+  font-size: 18px;
+}
+
+.GE {
+  display: block;
+  margin: auto;
+  width: 90%;
+  padding-left: auto;
+  padding-right: auto;
+  font-size: 30px;
+}
+
+.GE img {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+#WWM {
+  float: left;
+  width: 250px;
+  height: 200px;
+}
+
+.top {
+  display: block;
+  margin: auto;
+  width: 90%;
+  padding-left: auto;
+  padding-right: auto;
+  font-size: 30px;
+  text-align: center;
+}
+
+.top img {
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+
+.topics {
+  display: block;
+  margin: auto;
+  width: 90%;
+  padding-left: auto;
+  padding-right: auto;
+  font-size: 30px;
+}
+
+.topics p {
+  font-size: 16px;
+}
